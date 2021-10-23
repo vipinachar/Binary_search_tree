@@ -54,5 +54,16 @@
 # a[-1] =10 
 
 
-r = range(5,10,2)
-print(r[1])
+# r = range(5,10,2)
+# # print(r[1])
+# s = {1,2,3,4,5,1}
+# print(s)
+
+
+
+l = [1,2,3,4,5,1]
+print(l)
+s = set(l)
+print(s[0])
+l = list(s)
+print(l)
